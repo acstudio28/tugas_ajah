@@ -44,4 +44,5 @@ elif choice == 2:
 
 else:
     print("Gak milih apa-apa. Lu diem kayak patung di ruang tengah.")
+
     print("TAMAT. Lu jadi patung selamanya.")
